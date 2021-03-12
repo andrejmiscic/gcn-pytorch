@@ -124,9 +124,9 @@ In our results we report standard deviation of accuracy based on 100 repetitions
 Results of experiments with model depth and residual connections are shown below. Same as in the original paper the whole dataset is used and the mean accuracy of 5-fold cross validation is plotted.
 
 <p float="left">
-  <img src="./cora.png" width="200" />
-  <img src="./citeseer.png" width="200" /> 
-  <img src="./pubmed.png" width="200" />
+  <img src="./cora.png" width="600" />
+  <img src="./citeseer.png" width="600" /> 
+  <img src="./pubmed.png" width="600" />
 </p>
 
 ### References & Citations
